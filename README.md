@@ -16,8 +16,10 @@ Most interview cheat sheets test simple trivia (e.g., *"What is a Kubernetes Pod
 
 This repository aggregates these high-frequency scenarios with structured answers, root-cause analyses, and mitigation steps.
 
-> 💡 **Interactive AI Mock Practice:**
-> If you want to practice answering these scenario questions aloud under timed pressure with instant feedback, practice on the [Intervixa Live AI Interviewer](https://intervixa.online/modules/mock-interview/live).
+> 💡 **Interactive AI Mock Practice & Career Toolkit:**
+> - Practice answering scenario questions aloud under timed pressure with instant feedback on the [Intervixa Live AI Interviewer](https://intervixa.online/modules/mock-interview/live).
+> - Attract inbound recruiter reachouts by converting your technical learnings into viral posts using the [AI LinkedIn Post Generator](https://intervixa.online/modules/linkedin-optimizer).
+> - Audit your resume against job descriptions using the [Intervixa ATS Resume Analyzer](https://intervixa.online/modules/ats-resume-score).
 
 ---
 
@@ -28,7 +30,7 @@ This repository aggregates these high-frequency scenarios with structured answer
 3. [Docker & Container Debugging](#3-docker--container-debugging)
 4. [CI/CD & GitOps Pipeline Failures](#4-cicd--gitops-pipeline-failures)
 5. [Terraform & Infrastructure as Code (IaC) Scenarios](#5-terraform--infrastructure-as-code-iac-scenarios)
-6. [Resume & ATS Optimization](#6-resume--ats-optimization)
+6. [Resume, ATS & LinkedIn Personal Branding](#6-resume-ats--linkedin-personal-branding)
 
 ---
 
@@ -96,13 +98,12 @@ This repository aggregates these high-frequency scenarios with structured answer
 
 ---
 
-## 6. Resume & ATS Optimization
+## 6. Resume, ATS & LinkedIn Personal Branding
 
-When applying for Cloud & DevOps roles, over 70% of resumes are filtered out by Applicant Tracking Systems (ATS) due to formatting errors or missing skills syntax.
+When applying for Cloud & DevOps roles, over 70% of resumes are filtered out by Applicant Tracking Systems (ATS), and blind applications often get lost:
 
-- Avoid 2-column graphics-heavy templates.
-- Explicitly list technologies in context: e.g., *"Automated Kubernetes cluster provisioning using Terraform, reducing deployment time by 40%"*.
-- **Free ATS Audit:** Check your resume score against real job descriptions using the [Intervixa ATS Resume Analyzer](https://intervixa.online/modules/ats-resume-score) and read the [ATS Optimization Guide](https://intervixa.online/guide/ats-optimization).
+- **ATS Resume Optimization:** Avoid 2-column graphics-heavy templates. Explicitly list technologies in context (e.g., *"Automated Kubernetes cluster provisioning using Terraform, reducing deployment time by 40%"*). Check your resume score against real job descriptions using the [Intervixa ATS Resume Analyzer](https://intervixa.online/modules/ats-resume-score) and read the [ATS Optimization Guide](https://intervixa.online/guide/ats-optimization).
+- **Inbound Recruiter Reachouts on LinkedIn:** Top engineers get offers directly in their DMs by sharing architecture teardowns and incident post-mortems. Use the **[AI LinkedIn Post Generator](https://intervixa.online/modules/linkedin-optimizer)** to turn your daily debugging triages into recruiter-attracting LinkedIn posts.
 
 ---
 
