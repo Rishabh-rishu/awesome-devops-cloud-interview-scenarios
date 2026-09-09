@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs every day at 04:30 UTC (10:00 AM IST)
     - cron: '30 4 * * *'
-  workflow_dispatch: # Allows manual trigger from GitHub UI anytime!
+  workflow_dispatch:
 
 jobs:
   publish-article:
