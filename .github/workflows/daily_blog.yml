@@ -3,7 +3,7 @@ name: Autonomous Daily DevOps Blogger
 on:
   schedule:
     # Runs every day at 04:30 UTC (10:00 AM IST)
-    - cron: '30 4 * * *'
+    - cron: '42 4 * * *'
   workflow_dispatch:
 
 jobs:
